@@ -10,8 +10,9 @@ To simplify the forensics process, our solution aims to combine the various type
 4.	LSBStego
 5.	wavStego2
 6.	LSBImage
-7.  UnicodeStego2
-8.	SteganoLSB
+7.  Spectrology
+8.  UnicodeStego2
+9.	SteganoLSB
 
 # USAGE
 
