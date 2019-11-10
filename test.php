@@ -1,3 +1,5 @@
+//From https://particleflux.codes/post/old-blog/breaking-quickstego/
+
 <?php
 
 
